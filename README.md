@@ -24,6 +24,14 @@ This project demonstrates an end-to-end Power BI dashboard built using sales dat
 ##  Files Included
 - `Sales_Analysis_PowerBI.pbix` – Power BI file
 - `dashboard_overview.png` – Dashboard screenshot
+##  Python Data Analysis
+- `sales_data_cleaned.csv`: Cleaned dataset used for analysis
+- Screenshots of Python plots for quick insight previews
+##  SQL Analysis
+- `sales_queries.sql`: SQL script for creating database, loading the cleaned data, and analysis queries
+##  Power BI Dashboard
+- Power BI file (`.pbix`)
+- Dashboard screenshot (`dashboard_overview.png`)
 
 ## 👤 Author
 Anjali Mannela
